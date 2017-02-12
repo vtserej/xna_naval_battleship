@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>textures\aim.tga</Source>
+      <Name>textures\aim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\aim.xnb</Output>
+      <Time>2010-09-27T00:50:42.0346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\boardCell.tga</Source>
+      <Name>textures\boardCell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\boardCell.xnb</Output>
+      <Time>2010-09-27T00:50:42.0586+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\cloud.tga</Source>
+      <Name>textures\cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\cloud.xnb</Output>
+      <Time>2010-09-27T00:50:42.0616+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\custom.tga</Source>
+      <Name>textures\custom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\custom.xnb</Output>
+      <Time>2010-09-27T15:26:57.3258+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\explosionBoard.tga</Source>
+      <Name>textures\explosionBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\explosionBoard.xnb</Output>
+      <Time>2010-09-27T00:50:42.0696+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\fire.tga</Source>
+      <Name>textures\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\fire.xnb</Output>
+      <Time>2010-09-27T00:50:42.0716+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\fireMisile.tga</Source>
+      <Name>textures\fireMisile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\fireMisile.xnb</Output>
+      <Time>2010-09-27T00:50:42.0726+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\imagenMarAlpha.tga</Source>
+      <Name>textures\imagenMarAlpha</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\imagenMarAlpha.xnb</Output>
+      <Time>2010-09-27T00:50:42.1996+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\message.tga</Source>
+      <Name>textures\message</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\message.xnb</Output>
+      <Time>2010-09-27T00:50:42.2536+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\shipSmoke.tga</Source>
+      <Name>textures\shipSmoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\shipSmoke.xnb</Output>
+      <Time>2010-09-27T00:50:42.3096+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\smoke.tga</Source>
+      <Name>textures\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\smoke.xnb</Output>
+      <Time>2010-09-27T00:50:42.3136+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\sun.tga</Source>
+      <Name>textures\sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\sun.xnb</Output>
+      <Time>2010-09-27T00:50:42.3226+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\sunGlow.tga</Source>
+      <Name>textures\sunGlow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\sunGlow.xnb</Output>
+      <Time>2010-09-27T00:50:42.3266+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\back.jpg</Source>
+      <Name>textures\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\back.xnb</Output>
+      <Time>2010-09-27T00:50:42.0356+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\barcoquemao.jpg</Source>
+      <Name>textures\barcoquemao</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\barcoquemao.xnb</Output>
+      <Time>2010-09-27T00:50:42.0366+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\barcosCPU.jpg</Source>
+      <Name>textures\barcosCPU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\barcosCPU.xnb</Output>
+      <Time>2010-09-27T00:50:42.0366+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\barcosPlayer.jpg</Source>
+      <Name>textures\barcosPlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\barcosPlayer.xnb</Output>
+      <Time>2010-09-27T00:50:42.0566+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\camaraDown.jpg</Source>
+      <Name>textures\camaraDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\camaraDown.xnb</Output>
+      <Time>2010-09-27T00:50:42.0596+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\camaraUp.jpg</Source>
+      <Name>textures\camaraUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\camaraUp.xnb</Output>
+      <Time>2010-09-27T00:50:42.0596+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\credits.jpg</Source>
+      <Name>textures\credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\credits.xnb</Output>
+      <Time>2010-10-30T11:49:05.6456+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\down.jpg</Source>
+      <Name>textures\down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\down.xnb</Output>
+      <Time>2010-09-27T00:50:42.0646+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\espanna.jpg</Source>
+      <Name>textures\espanna</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\espanna.xnb</Output>
+      <Time>2010-10-22T19:15:29.178+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\explosion.jpg</Source>
+      <Name>textures\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\explosion.xnb</Output>
+      <Time>2010-09-27T00:50:42.0686+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\front.jpg</Source>
+      <Name>textures\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\front.xnb</Output>
+      <Time>2010-09-27T00:50:42.0736+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\gameRight.jpg</Source>
+      <Name>textures\gameRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\gameRight.xnb</Output>
+      <Time>2010-09-27T00:50:42.0746+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\hover.jpg</Source>
+      <Name>textures\hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\hover.xnb</Output>
+      <Time>2010-09-27T00:50:42.0746+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\left.jpg</Source>
+      <Name>textures\left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\left.xnb</Output>
+      <Time>2010-09-27T00:50:42.2036+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\logoCPU.jpg</Source>
+      <Name>textures\logoCPU</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\logoCPU.xnb</Output>
+      <Time>2010-09-27T00:50:42.2056+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\logoPlayer.jpg</Source>
+      <Name>textures\logoPlayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\logoPlayer.xnb</Output>
+      <Time>2010-09-27T00:50:42.2236+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\menu.jpg</Source>
+      <Name>textures\menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\menu.xnb</Output>
+      <Time>2010-09-27T00:50:42.2256+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\menuNormal.jpg</Source>
+      <Name>textures\menuNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\menuNormal.xnb</Output>
+      <Time>2010-09-27T00:50:42.2276+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\menuUp.jpg</Source>
+      <Name>textures\menuUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\menuUp.xnb</Output>
+      <Time>2010-09-27T00:50:42.2296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\misile.jpg</Source>
+      <Name>textures\misile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\misile.xnb</Output>
+      <Time>2010-10-27T19:53:31.7256+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\misileCameraDown.jpg</Source>
+      <Name>textures\misileCameraDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\misileCameraDown.xnb</Output>
+      <Time>2010-09-27T00:50:42.2586+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\misileCameraUp.jpg</Source>
+      <Name>textures\misileCameraUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\misileCameraUp.xnb</Output>
+      <Time>2010-09-27T00:50:42.2616+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\normal.jpg</Source>
+      <Name>textures\normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\normal.xnb</Output>
+      <Time>2010-09-27T00:50:42.2636+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\objCarGri.jpg</Source>
+      <Name>textures\objCarGri</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\objCarGri.xnb</Output>
+      <Time>2010-10-27T22:02:54.6296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\propela.jpg</Source>
+      <Name>textures\propela</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\propela.xnb</Output>
+      <Time>2010-10-27T22:07:20.3856+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\objTarGri.jpg</Source>
+      <Name>textures\objTarGri</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\objTarGri.xnb</Output>
+      <Time>2010-10-27T22:02:53.8366+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\portada.jpg</Source>
+      <Name>textures\portada</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\portada.xnb</Output>
+      <Time>2010-11-19T21:34:41.298+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\pressed.jpg</Source>
+      <Name>textures\pressed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\pressed.xnb</Output>
+      <Time>2010-09-27T00:50:42.2856+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\right.jpg</Source>
+      <Name>textures\right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\right.xnb</Output>
+      <Time>2010-09-27T00:50:42.2876+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\SetupRight.jpg</Source>
+      <Name>textures\SetupRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\SetupRight.xnb</Output>
+      <Time>2010-09-27T00:50:42.3066+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\soundDown.jpg</Source>
+      <Name>textures\soundDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\soundDown.xnb</Output>
+      <Time>2010-09-27T00:50:42.3166+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\soundUp.jpg</Source>
+      <Name>textures\soundUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\soundUp.xnb</Output>
+      <Time>2010-09-27T00:50:42.3196+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\TittleEnglish.jpg</Source>
+      <Name>textures\TittleEnglish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\TittleEnglish.xnb</Output>
+      <Time>2010-10-22T19:11:56.0636+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\TittleSpanish.jpg</Source>
+      <Name>textures\TittleSpanish</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\TittleSpanish.xnb</Output>
+      <Time>2010-10-22T19:11:47.5616+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\top.jpg</Source>
+      <Name>textures\top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\top.xnb</Output>
+      <Time>2010-09-27T00:50:42.3346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\uk.jpg</Source>
+      <Name>textures\uk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\uk.xnb</Output>
+      <Time>2010-09-27T00:50:42.3376+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\white.bmp</Source>
+      <Name>textures\white</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\white.xnb</Output>
+      <Time>2010-09-27T13:18:58.0148+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\imagenMar.jpg</Source>
+      <Name>textures\imagenMar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\imagenMar.xnb</Output>
+      <Time>2010-10-27T23:31:31.2036+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cubeMaps\sky_cube_mipmap.dds</Source>
+      <Name>cubeMaps\sky_cube_mipmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\cubeMaps\sky_cube_mipmap.xnb</Output>
+      <Time>2006-09-29T12:41:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\camaraHover.jpg</Source>
+      <Name>textures\camaraHover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\camaraHover.xnb</Output>
+      <Time>2010-11-19T22:20:34.728+01:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\waterbumps.bmp</Source>
+      <Name>textures\waterbumps</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\textures\waterbumps.xnb</Output>
+      <Time>2011-01-30T01:47:17.0256+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cubeMaps\skybox02.dds</Source>
+      <Name>cubeMaps\skybox02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\cubeMaps\skybox02.xnb</Output>
+      <Time>2011-01-30T02:25:12.6156+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\TextFont14.spritefont</Source>
+      <Name>fonts\TextFont14</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\fonts\TextFont14.xnb</Output>
+      <Time>2010-09-27T13:37:09.0688+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\TextFont12.spritefont</Source>
+      <Name>fonts\TextFont12</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\fonts\TextFont12.xnb</Output>
+      <Time>2010-09-28T20:03:12.9132+02:00</Time>
+    </Item>
+    <Item>
+      <Source>models\submarino.FBX</Source>
+      <Name>models\submarino</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\models\submarino.xnb</Output>
+      <Time>2010-10-16T21:21:22.6864+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\submarino_0.xml</Key>
+        <Value>2011-10-02T13:40:35.915039+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\portavion.FBX</Source>
+      <Name>models\portavion</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\models\portavion.xnb</Output>
+      <Time>2010-10-16T23:00:01.0134+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\portavion_0.xml</Key>
+        <Value>2011-10-02T13:40:36.133789+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\fragata.FBX</Source>
+      <Name>models\fragata</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\models\fragata.xnb</Output>
+      <Time>2010-10-17T21:58:28.5394+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\fragata_0.xml</Key>
+        <Value>2011-10-02T13:40:36.2607421+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\destructor.FBX</Source>
+      <Name>models\destructor</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\models\destructor.xnb</Output>
+      <Time>2010-10-17T22:02:37.4074+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\destructor_0.xml</Key>
+        <Value>2011-10-02T13:40:36.383789+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\crucero.FBX</Source>
+      <Name>models\crucero</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\models\crucero.xnb</Output>
+      <Time>2010-11-06T14:13:48.2384+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\crucero_0.xml</Key>
+        <Value>2011-10-02T13:40:36.6142578+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\misil.FBX</Source>
+      <Name>models\misil</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\models\misil.xnb</Output>
+      <Time>2010-10-27T19:56:17.2416+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\misil_0.xml</Key>
+        <Value>2011-10-02T13:40:36.7294921+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\sphere.FBX</Source>
+      <Name>models\sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\models\sphere.xnb</Output>
+      <Time>2010-11-15T21:11:02.9288+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\sphere_0.xml</Key>
+        <Value>2011-10-02T13:40:36.8183593+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>models\sphereSky.fbx</Source>
+      <Name>models\sphereSky</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\models\sphereSky.xnb</Output>
+      <Time>2010-11-16T19:17:04.035+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\models\sphereSky_0.xml</Key>
+        <Value>2011-10-02T13:40:37.1484375+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>effects\skySphere.fx</Source>
+      <Name>effects\skySphere</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\effects\skySphere.xnb</Output>
+      <Time>2010-11-16T19:13:14.439+01:00</Time>
+    </Item>
+    <Item>
+      <Source>effects\oceanwater.fx</Source>
+      <Name>effects\oceanwater</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\effects\oceanwater.xnb</Output>
+      <Time>2011-01-08T16:32:09.407+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\submarino.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\submarino_0.xml</Output>
+      <Time>2010-10-16T21:21:22.6864+02:00</Time>
+    </Item>
+    <Item>
+      <Source>models\portavion.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\portavion_0.xml</Output>
+      <Time>2010-10-16T23:00:01.0134+02:00</Time>
+    </Item>
+    <Item>
+      <Source>models\fragata.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\fragata_0.xml</Output>
+      <Time>2010-10-17T21:58:28.5394+02:00</Time>
+    </Item>
+    <Item>
+      <Source>models\destructor.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\destructor_0.xml</Output>
+      <Time>2010-10-17T22:02:37.4074+02:00</Time>
+    </Item>
+    <Item>
+      <Source>models\crucero.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\crucero_0.xml</Output>
+      <Time>2010-11-06T14:13:48.2384+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\misil.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\misil_0.xml</Output>
+      <Time>2010-10-27T19:56:17.2416+02:00</Time>
+    </Item>
+    <Item>
+      <Source>models\sphere.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\sphere_0.xml</Output>
+      <Time>2010-11-15T21:11:02.9288+01:00</Time>
+    </Item>
+    <Item>
+      <Source>models\sphereSky.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\models\sphereSky_0.xml</Output>
+      <Time>2010-11-16T19:17:04.035+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-13T10:31:14.0097656+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

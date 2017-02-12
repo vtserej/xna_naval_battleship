@@ -1,0 +1,3 @@
+E:\Vasily\Work\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Vasily\Work\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vasily\TODO GRAPHIKA\Projects\proyecto batalla\Batalla Naval XNA\Naval battleship\Naval battleship\Content\obj\x86\Debug\ResolveAssemblyReference.cache
